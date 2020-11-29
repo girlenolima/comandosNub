@@ -1,11 +1,7 @@
 
-| COMANDO | RESUMO PESSOAL |
-| --- | ----------- |
-
-
-|pwd              							  	| lista onde esta o diretorio|
+pwd              							  //lista onde esta o diretorio
 ls                	 							//  lista todos os diretorios
-**mkdir**             	 							//  criar uma pasta
+mkdir            	 							//  criar uma pasta
 git init								        //  cria o repositorio local no projeto (cria a pasta git)
 touch             	 							//  cria uma arquivo
 la a              	 							//  exibi diretorio
@@ -37,10 +33,3 @@ git clone (mias link) 							       	//  clona o repositorio
 
 
 
-LOCAL
--------------------------
-GIT ADD * -> GIT COMMIT -M (DESCRICAO)
-
-REMOTO
--------------------------
-git remote -> git add origin -> git push	
