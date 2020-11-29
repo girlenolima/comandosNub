@@ -1,0 +1,5 @@
+DESLIGAR
+mysqladmin -u root -p shutdown,
+
+LIGAR
+mysqlad -u root -p,
