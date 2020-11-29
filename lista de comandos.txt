@@ -1,3 +1,8 @@
+
+| COMANDO | RESUMO PESSOAL |
+| --- | ----------- |
+
+
 pwd              							  	//  lista onde esta o diretorio
 ls                	 							//  lista todos os diretorios
 mkdir             	 							//  criar uma pasta
